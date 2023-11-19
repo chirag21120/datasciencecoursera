@@ -2,7 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
-# This function is responsible for set, get, setinverse and getinverse operations
+# This function is responsible for set, get, set inverse and get inverse operations
 createCacheMatrix <- function(x = matrix()) {
   # Initialize the inverse_matrix 
   inverse.matrix <- NULL
